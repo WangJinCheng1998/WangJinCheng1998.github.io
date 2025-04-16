@@ -4,6 +4,7 @@
 
 I am currently a PhD student in Computer Science, at University College London (UCL).
 
+#### Language Skill
 - TOEFL iBT: 97
 - Japanese Language Proficiency Test (JLPT): N2
 
@@ -16,11 +17,11 @@ wangjc365@gmial.com
 #### Education
 
 
-Doctor of Philosophy(PhD), University College London, Computer Science, Jan 2023 - Jan 2027 (expected).
+**Doctor of Philosophy(PhD)**: University College London, Computer Science, Jan 2023 - Jan 2027 (expected).
 
-Master of Science, The University of Sheffield, Robotics and Automation Enginerring (Diestinction),Sep 2021 - Sep 2022.
+**Master of Science (MS)**: The University of Sheffield, Robotics and Automation Enginerring (Diestinction),Sep 2021 - Sep 2022.
 
-Bachelor's degree, Northwest A&F University, Mechanical Engineering, Mechanical Engineering, Nov 2016 - Jul 2020.
+**Bachelor's degree**: Northwest A&F University, Mechanical Engineering, Mechanical Engineering, Nov 2016 - Jul 2020.
 
 
 #### Research Interests
