@@ -2,15 +2,21 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+I am currently a PhD student in Computer Science, at University College London (UCL).
 #### Email
-sli[at]cumt.edu.cn
+ucabj46@ucl.ac.uk
+wangjc365@gmial.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+
+Doctor of Philosophy(PhD), University College London, Computer Science, Jan 2023 - Jan 2027 (expected).
+Master of Science, The University of Sheffield, Robotics and Automation Enginerring (Diestinction),Sep 2021 - Sep 2022.
+Bachelor's degree, Northwest A&F University, Mechanical Engineering, Mechanical Engineering, Nov 2016 - Jul 2020.
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Reinforcement Learning, Transformers,Legged Robot, Acoustic Levitation.
+
+
 
