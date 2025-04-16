@@ -12,7 +12,7 @@ I am currently a PhD student in Computer Science, at University College London (
 
 ucabj46@ucl.ac.uk
 
-wangjc365@gmial.com
+wangjc365@gmail.com
 
 #### Education
 
