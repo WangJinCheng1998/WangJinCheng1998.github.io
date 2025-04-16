@@ -3,6 +3,10 @@
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 I am currently a PhD student in Computer Science, at University College London (UCL).
+
+- TOEFL iBT: 97
+- Japanese Language Proficiency Test (JLPT): N2
+
 #### Email
 
 ucabj46@ucl.ac.uk
@@ -20,6 +24,7 @@ Bachelor's degree, Northwest A&F University, Mechanical Engineering, Mechanical 
 
 
 #### Research Interests
+
 Reinforcement Learning, Transformers,Legged Robot, Acoustic Levitation.
 
 
