@@ -1,6 +1,6 @@
  
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wangjincheng1998](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/WangJinCheng1998)
 
 I am currently a PhD student in Computer Science, at University College London (UCL).
 
